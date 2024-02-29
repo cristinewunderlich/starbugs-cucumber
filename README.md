@@ -16,7 +16,7 @@ O foco do curso é descrever a diferença do BDD e da linguagem Gherkin com cen�
 - Cucumber
 - Selenium WebDriver
 
-## 🤖 Como executar
+## 🤖 :robot: Como executar
 
 1. Clonar o repositório, instalar as dependências
 ```
