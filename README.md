@@ -1,6 +1,6 @@
 ![poster](https://raw.githubusercontent.com/qaxperience/thumbnails/main/cucumber-experience.png)
 
-## :computer: Sobre
+## :metal: Sobre
 
 Repositório do projeto de testes automatizados do sistema Startbugs, construído no curso BDD Discover ministrato pelo Fernando Papito!
 O foco do curso é descrever a diferença do BDD e da linguagem Gherkin com cenários reais, facilitando muito o entendimento e melhoria na nossa prática do dia a dia.
